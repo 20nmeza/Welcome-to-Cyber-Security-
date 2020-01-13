@@ -31,7 +31,7 @@ Read more [here](https://www.cnn.com/2019/04/22/uk/most-common-passwords-scli-gb
 
 ### Other Pages 
 
-To Learn More About [Academic Resume.](https://github.com/20nmeza/Nilyn-Meza/settings) 
+To Learn More About [Academic Resume.](https://20nmeza.github.io/Academic-Resume/) 
 Got Any Question [Contact Us](https://github.com/20nmeza/Nilyn-Meza/settings)
 or [Go Back to the Main Page.](https://20nmeza.github.io/Nilyn-Meza/)
 
