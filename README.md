@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome Cybersecurity 
 
-You can use the [editor on GitHub](https://github.com/20nmeza/Welcome-to-Cyber-Security-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+CyberSecurity is the protection of internet-connected systems, including hardware, software and data, from cyberattacks. At South Plainfield High School has implanted a Cyber-Security Class as of 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Inside the class of Cybersecurity, students learn how to detect intrusions & respond to attacks, examine your own digital footprint and defend your data. 
 
-### Markdown
+### Ways to Make a Strong Password
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you want to safeguard your personal info and assets start by creating a secure password
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+  1. Make a Unique Password
+  
+  2. Do not use personal information about yourself. Such as Birthdays, Name, Credit Card Info
+  
+  3. Make your password at least 12 characters long. A strong passwords has 15-20 characters
+  
+  4. Always use random characters such as numbers and symbols
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details visit [Lastpass.](https://www.lastpass.com/password-generator).
 
-### Jekyll Themes
+### Facts 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/20nmeza/Welcome-to-Cyber-Security-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Over 80% of hacking-related breaches are due to weak or stolen passwords, a recent report shows.
+The five most common passwords are 123456, 123456789, qwerty, password, and 111111. 
 
-### Support or Contact
+Read more [here](https://www.cnn.com/2019/04/22/uk/most-common-passwords-scli-gbr-intl/index.html)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other Pages 
+
+To Learn More About [Academic Resume.](https://github.com/20nmeza/Nilyn-Meza/settings) 
+Got Any Question [Contact Us](https://github.com/20nmeza/Nilyn-Meza/settings)
+or [Go Back to the Main Page.](https://20nmeza.github.io/Nilyn-Meza/)
+
