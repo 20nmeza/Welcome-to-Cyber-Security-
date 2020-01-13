@@ -20,7 +20,7 @@ If you want to safeguard your personal info and assets start by creating a secur
 
 ```
 
-For more details visit [Lastpass.](https://www.lastpass.com/password-generator).
+For more details visit [Lastpass.com](https://www.lastpass.com/password-generator).
 
 ### Facts 
 
