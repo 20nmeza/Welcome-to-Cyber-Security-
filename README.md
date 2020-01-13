@@ -1,4 +1,4 @@
-## Welcome Cybersecurity 
+## What is Cybersecurity 
 
 CyberSecurity is the protection of internet-connected systems, including hardware, software and data, from cyberattacks. At South Plainfield High School has implanted a Cyber-Security Class as of 2019.
 
